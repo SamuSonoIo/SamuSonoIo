@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**SamuSonoIo/SamuSonoIo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Samuele** from Italy 🇮🇹. I’m passionate about coding and love working with various technologies. Here’s a bit more about me and what I do:
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name**: Samuele
+- **Location**: Italy 🇮🇹
+- **Passion**: Coding
+  
+## 📫 Get in Touch
+
+Feel free to reach out to me through [samusonoio24@gmail.com](mailto:samusonoio24@gmail.com).
+
+## 🔗 Connect with Me
+
+[![Discord](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://discord.com/users/959199862593818695)
+
+## 🛠️ Languages that i know
+
+![Java](https://img.shields.io/badge/Java-1.8-orange?style=flat&logo=java)
+![Lua](https://img.shields.io/badge/Lua-5.4-blue?style=flat&logo=lua)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+## 🎯 Goals
+
+- Help people all around the world with what i can! 🌍
+- Continuously learn and grow as a developer 📚
+
+Thank you for visiting my profile! Feel free to explore my repositories and projects. If you have any questions or just want to say hi, don't hesitate to get in touch. 😊
+
+Hope you the best!👋
+
