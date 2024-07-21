@@ -14,7 +14,7 @@ Feel free to reach out to me through [samusonoio24@gmail.com](mailto:samusonoio2
 
 ## 🔗 Connect with Me
 
-[![Discord](https://img.shields.io/discord/959199862593818695?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.com/users/959199862593818695)
+[![Discord](https://img.shields.io/discord/959199862593818695)](https://discord.com/users/959199862593818695)
 
 ## 🛠️ Languages I Know
 
