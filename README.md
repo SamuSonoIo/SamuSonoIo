@@ -15,9 +15,12 @@ Welcome to my GitHub profile! I'm **Samuele** from Italy 🇮🇹. I’m passion
 ## 🛠️ Languages I Know
 
 ![Java](https://img.shields.io/badge/Java-1.8-orange?style=flat&logo=java)
-![Kotlin
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-5.4-blue?style=flat&logo=lua)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-[![SamuSonoIo Stats](https://github-readme-stats.vercel.app/api?username=SamuSonoIo)](https://github.com/anuraghazra/github-readme-stats)
+## 🗺️ GOAL 
+
+- **GROW** As a developer⌨️
+- **CONTRIBUTE** To bigger project and change the world with what i can⭐
