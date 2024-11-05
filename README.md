@@ -12,13 +12,15 @@ Welcome to my GitHub profile! I'm **Samuele** from Italy 🇮🇹. I’m passion
 
 [![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/959199862593818695)
 
-## 🛠️ Languages I Know
+## 🛠️ Languages | Data Storings that i know
 
-![Java](https://img.shields.io/badge/Java-1.8-orange?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-5.4-blue?style=flat&logo=lua)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🗺️ GOAL 
 
