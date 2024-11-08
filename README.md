@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm **Samuele** from Italy 🇮🇹. I’m passion
 
 [![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/959199862593818695)
 
-## 🛠️ Languages | Data Storings that i know
+## 🛠️ Languages | Database
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
