@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I'm **Samuele** from Italy 🇮🇹. I’m passion
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![SamuSonoIo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuSonoIo)](https://github.com/anuraghazra/github-readme-stats)
