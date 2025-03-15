@@ -18,25 +18,6 @@ I'm passionate about elegant code and innovative solutions. Currently exploring 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuSonoIo&show_icons=true&theme=dark&count_private=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuSonoIo&layout=compact&theme=dark&hide_border=true)
 
-## 🌟 Projects
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/b69b5b17-c0d2-4d6f-804b-a56bb84ef6f7" width="100" alt="Project 1 Logo">
-  <div style="margin-left: 20px;">
-    <h3>SDK Development</h3>
-    <p>FiveM Scripting Store, selling unique scripts to entrepreneurs who want to open a server.</p>
-    <a href="https://discord.gg/gHvYZfQy7d">View Project →</a>
-  </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/9df9dad7-d545-4253-b4b0-3f2dd3f8da1e" width="100" alt="Project 2 Logo">
-  <div style="margin-left: 20px;">
-    <h3>BuongiornoDEV</h3>
-    <p>Italian FiveM Scripting discord, selling custom Gamemodes and Scripts to owners.</p>
-    <a href="https://discord.gg/YJVCbRJ4Kt">View Project →</a>
-  </div>
-</div>
-
 ## 🔗 Connect With Me
 [![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/959199862593818695)
 [![GitHub](https://img.shields.io/badge/GitHub-SamuSonoIo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SamuSonoIo)
