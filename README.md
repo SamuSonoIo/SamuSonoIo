@@ -14,9 +14,6 @@ I'm passionate about elegant code and innovative solutions. Currently exploring 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuSonoIo&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
 ## 🔗 Connect With Me
 [![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/959199862593818695)
 [![GitHub](https://img.shields.io/badge/GitHub-SamuSonoIo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SamuSonoIo)
