@@ -16,8 +16,6 @@ I'm passionate about elegant code and innovative solutions. Currently exploring 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuSonoIo&show_icons=true&theme=dark&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuSonoIo&layout=compact&theme=dark&hide_border=true)
-<img src="https://streak-stats.demolab.com?user=SamuSonoIo&theme=dark&hide_border=true" alt="SamuSonoIo's GitHub Stats" />
 
 ## 🔗 Connect With Me
 [![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/959199862593818695)
