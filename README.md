@@ -1,7 +1,7 @@
 # Samuele | Full Stack Developer
 
 ## About Me
-**Heya👋**, I'm Samuele D'amico, as you can probably guess by the name, i'm Italian 🇮🇹
+**Hey👋**, I'm Samuele D'amico, as you can probably guess by the name, i'm Italian 🇮🇹
 I'm passionate about elegant code and innovative solutions. Currently exploring the intersections of web development and software engineering.
 
 Read more about me here: [Portfolio](https://www.samueledamico.com/)
