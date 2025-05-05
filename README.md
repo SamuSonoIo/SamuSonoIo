@@ -1,6 +1,6 @@
 # Samuele D'Amico | Full Stack Developer
 
-## About M
+## About Me
 
 I'm a Full Stack Developer with expertise in web development and software engineering. Based in Italy 🇮🇹, I focus on creating elegant code and developing innovative solutions that solve real-world problems.
 
