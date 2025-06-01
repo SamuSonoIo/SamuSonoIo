@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer with expertise in web development and software engineering. Based in Italy 🇮🇹, I focus on creating elegant code and developing innovative solutions that solve real-world problems.
+I'm a Full Stack Developer with expertise in web development and software engineering. Based in Italy 🇮🇹.
 
 [**View My Portfolio**](https://www.samueledamico.com/) for detailed project showcases and professional background.
 
@@ -27,16 +27,11 @@ I'm a Full Stack Developer with expertise in web development and software engine
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔍 What I Do
-
-- **Full Stack Development**: Building responsive and scalable web applications
-- **Software Engineering**: Designing robust and efficient backend systems
-
-## 📫 Let's Connect
+## 📫 Contact me.
 
 [![Discord](https://img.shields.io/badge/Discord-SamuSonoIo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/959199862593818695)
 [![GitHub](https://img.shields.io/badge/GitHub-SamuSonoIo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuSonoIo)
 
 ---
 
-*Open to collaboration and new opportunities. Feel free to reach out!*
+*Open to collaboration. Feel free to reach out!*
