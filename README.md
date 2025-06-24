@@ -13,6 +13,7 @@ I enjoy building useful, fast, and thoughtful software, from backend APIs to res
 **Languages:** Kotlin, Java, C++, JavaScript, TypeScript, Lua  
 **Frontend:** React, Next.js, HTML, CSS, Tailwind  
 **Backend & Tools:** Node.js, MongoDB, Git
+
 ---
 
 ## Contact
