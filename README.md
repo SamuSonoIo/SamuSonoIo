@@ -14,7 +14,7 @@ I enjoy building useful, fast, and thoughtful software, from backend APIs to res
 **Frontend:** React, Next.js, HTML, CSS, Tailwind  
 **Backend & Tools:** Node.js, MongoDB, Git
 
----
+--- 
 
 ## Contact
 
