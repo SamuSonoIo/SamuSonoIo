@@ -1,4 +1,4 @@
-# Samuele D'Amico — Full Stack Developer
+# Samuele D'amico — Full Stack Developer
 
 I'm a full stack developer from Italy, working on multiple Web Apps and some personal projects from time to time.
 
