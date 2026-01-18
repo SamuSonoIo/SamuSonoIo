@@ -6,7 +6,7 @@ I enjoy building useful, fast, and thoughtful software, from backend APIs to res
 
 → [**Check out my portfolio**](https://www.samueledamico.com/) to explore my work and background.
 
-## Tech Stack
+## Tech Stack 
 
 **Languages:** Kotlin, Java, C++, JavaScript, TypeScript, Lua  
 **Frontend:** React, Next.js, HTML, CSS, Tailwind  
