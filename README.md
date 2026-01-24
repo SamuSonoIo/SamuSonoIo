@@ -1,5 +1,5 @@
 # Samuele D'amico — Full Stack Developer 
-
+ 
 I'm a full stack developer from Italy, working on multiple Web Apps and some personal projects from time to time.
  
 I enjoy building useful, fast, and thoughtful software, from backend APIs to responsive UIs.
